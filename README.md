@@ -61,7 +61,6 @@ Here are some screenshots of the project in action:
 
   ![Offline Status](assets/OfflineScreenshot.png)
 
-*(Replace the example URLs with the actual URLs of your screenshots.)*
 
 ## Installation
 
@@ -93,6 +92,4 @@ Here are some screenshots of the project in action:
 
 For any questions or feedback, please contact me at [prashanthsn2003@gmail.com](mailto:prashanthsn2003@gmail.com).
 
----
 
-You can add screenshots to your GitHub repository (usually in a `screenshots` folder) and then update the screenshot URLs in the README.
